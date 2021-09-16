@@ -2,7 +2,7 @@
 
 เป็น Project ตัวอย่าง สำหรับ การใช้ MassTransit กับ RabbitMQ ใน C# ฉบับย่อ เน้นที่การ Publish และ Consume ข้อมูลเท่านั้น
 
-สำหรับข้อตอนการทำดูได้จาก [ไฟล์ PDF](Masstransit Essentials.pdf)
+สำหรับข้อตอนการทำดูได้จาก [ไฟล์ PDF](https://github.com/wanatatc/MasstransitExample/blob/master/Masstransit%20Essentials.pdf)
 
 ## Projects
 
